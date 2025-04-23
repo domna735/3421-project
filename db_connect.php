@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username   = "root";
 $password   = ""; // For XAMPP, the default is empty
-$dbname     = "3117_online_voting_system";
+$dbname     = "3421_online_voting_system";
 
 // Create connection using mysqli
 $conn = new mysqli($servername, $username, $password, $dbname);
